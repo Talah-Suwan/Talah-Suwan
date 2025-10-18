@@ -1,4 +1,4 @@
-## Hi there 👋
+ 3rd-year Computer Systems Engineering Student
 
 <!--
 **Talah-Suwan/Talah-Suwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
