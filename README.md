@@ -1,37 +1,36 @@
-<div align="center" width="50">
+<div align="center">
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70px">
 
+# 👋 Hi, I'm **Tala Suwan**
 
-</details>
+🎓 **3rd-year Computer Systems Engineering Student** at **Arab American University (AAUP)**  
+💻 Passionate about **Software Development**, **AI**, and **Problem-Solving**  
+🌱 Currently learning **Python** and improving my **C++** and **Java** skills  
 
-![Profile Views](https://komarev.com/ghpvc/?username=TalaSuwan&style=flat&color=orange&label=PROFILE+VIEWS)
-url=https%3A%2F%2Fgithub.com%2FTalaSuwan&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![Telegram](https://img.shields.io/badge/Tala_Suwan-grey?style=flat&logo=telegram)](https://t.me/) <br>
-</div>
+---
 
-<hr>
+### 🛠️ Tech Stack
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 
-```dart
-// Organized tools & skills
+---
 
-class AboutMe {
-  const myTools = {  
-    "ProgrammingLanguages": {"C++", "Java", "Python"},
-    "Database": {"SQLite"},
-    "Editors": {"VSCode", "Eclipse"},
-    "Platforms": {"Windows"},
-    "OtherTools": {"Git", "Microsoft Office"}
-  };
-}
+### 💡 What I’m Working On
+- Building small projects to **strengthen programming fundamentals**  
+- Solving coding challenges on **LeetCode** and **HackerRank**  
+- Exploring the basics of **Artificial Intelligence** and **Software Design**
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TalaSuwan&show_icons=tr_
